@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋  I am Vishnu.:man_technologist:
 
-<!--
-**svishnu88/svishnu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am founder of [Jarvislabs.ai](https://jarvislabs.ai/)- a GPU cloud platform. 
+I am also an AI Researcher, author, speaker and Kaggle Competitions Expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently building  [JarvisCloud](http://cloud.jarvislabs.ai/) a simple and affordable GPU cloud platform.
+- 🌱 I like to speak about deep learning on my [youtube](https://www.youtube.com/channel/UCAMo8bfMjeMyY_CTkcN9fcA) channel.
+- 💬 Ask me about deep learning, startups 
+- 📫 Follow me on [Twitter](https://twitter.com/vishnuvig)
+- ⚡ Fun fact: I love building products. I like to play with my kid video games in my free time.
+
+I'm always open to interesting conversations and collaboration.
+
