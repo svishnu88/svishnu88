@@ -1,7 +1,8 @@
 ### Hi there 👋  I am Vishnu.:man_technologist:
 
 
-I am founder of [Jarvislabs.ai](https://jarvislabs.ai/)- a GPU cloud platform. 
+I am founder of [Jarvislabs.ai](https://jarvislabs.ai/)- a GPU cloud platform.
+
 I am also an AI Researcher, author, speaker and Kaggle Competitions Expert.
 
 
