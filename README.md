@@ -16,6 +16,14 @@ I am also an AI Researcher, author, speaker and Kaggle Competitions Expert.
 I'm always open to interesting conversations and collaboration.
 
 Blogs:
+ 
+* On Stable Diffusion -
+
+    1. [Deploy stable diffusion on GPU instance using FastAPI](https://medium.com/@vishnuvig/deploy-stable-diffusion-on-gpu-instance-using-fastapi-d0743eeb735d)
+    2. [Stable Diffusion with Automatic 1111 on Jarvislabs](https://medium.com/@vishnuvig/stable-diffusion-with-automatic-1111-on-jarvislabs-1cd281eb57f9)
+    3. [Guide for finetuning Stablediffusion with your images](https://ai.plainenglish.io/guide-for-finetuning-stablediffusion-with-your-images-fc6856c0c2a7)
+
+
 * [Huggingface Accelerate to train on multiple GPUs](https://jarvislabs.ai/blogs/accelerate/)
 * [Deploy your AI app on Jarvislabs.ai using Gradio](https://jarvislabs.ai/blogs/gradio-setup/)
 * [Understanding PyTorch Module](https://jarvislabs.ai/blogs/pytorch-modules/)
@@ -30,5 +38,5 @@ Blogs:
 Videos:
 
 1. [Understanding fastai Series](https://www.youtube.com/watch?v=NzWadB_fcTE&list=PLexqeSjf_hzOfQMAz9UdDb-TaP13W0WQ_)
-2. [Learn Deep Learning by compoeteing in Kaggle](https://www.youtube.com/watch?v=rnJG12vIuFc&list=PLexqeSjf_hzPUygXwHyDUkIpU9d1xFCXs)
+2. [Learn Deep Learning by competeing in Kaggle](https://www.youtube.com/watch?v=rnJG12vIuFc&list=PLexqeSjf_hzPUygXwHyDUkIpU9d1xFCXs)
 
