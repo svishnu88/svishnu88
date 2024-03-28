@@ -25,6 +25,8 @@ Blogs:
 
 
 * [Huggingface Accelerate to train on multiple GPUs](https://jarvislabs.ai/blogs/accelerate/)
+* [What are Uncensored LLM models?](https://jarvislabs.ai/blogs/llm_uncensored)
+* [Deploy an Ollama LLM model](https://jarvislabs.ai/blogs/ollama_deploy)
 * [Deploy your AI app on Jarvislabs.ai using Gradio](https://jarvislabs.ai/blogs/gradio-setup/)
 * [Understanding PyTorch Module](https://jarvislabs.ai/blogs/pytorch-modules/)
 * [PyTorch Lazy modules](https://jarvislabs.ai/blogs/PyTorch-lazy-modules/)
