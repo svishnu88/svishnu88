@@ -1,4 +1,4 @@
-### Hi there 👋  I am Vishnu.:man_technologist:
+### Hi there 👋  I am Vishnu. 👨‍💻
 
 
 I am founder of [Jarvislabs.ai](https://jarvislabs.ai/)- a GPU cloud platform.
